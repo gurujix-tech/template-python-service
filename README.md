@@ -1,7 +1,7 @@
 # Gurujix golden-path Software Template for FastAPI services.
 #
-# Loaded by platform-portal as a catalog Template.
-# Skeleton files use ${{ values.* }} placeholders filled by the scaffolder.
+## Loaded by platform-portal as a catalog Template.
+## Skeleton files use ${{ values.* }} placeholders filled by the scaffolder.
 
 ## Local layout
 
